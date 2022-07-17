@@ -1,0 +1,24 @@
+##########create index from reference genome##########
+bwa index chr19.fa
+##########create dictionary from reference genome##########
+java -jar ../../../../../SetupFiles/picard.jar CreateSequenceDictionary REFERENCE=chr19.fa OUTPUT=chr19.dict
+##########align reads to the reference genome##########
+bwa mem -t 2 -a -M chr19.fa ../Part2/Sample_1.fastq ../Part2/Sample_2.fastq > alignment.sam
+##########sort the sam file##########
+java -jar ../../../../../SetupFiles/picard.jar SortSam I=alignment.sam O=alignment.bam SORT_ORDER=coordinate
+##########mark duplicates##########
+java -jar ../../../../../SetupFiles/picard.jar MarkDuplicates INPUT=alignment.bam OUTPUT=mdup_alignment.bam METRICS_FILE=alignment.metrics
+##########group reads in the mark duplicated bam file##########
+java -jar ../../../../../SetupFiles/picard.jar AddOrReplaceReadGroups INPUT=mdup_alignment.bam OUTPUT=group_mdup_alignment.bam RGID="alignment" RGLB="Exome-SureSelect-alignment" RGPL="ILLUMINA" RGPU="unkn-0.0" RGSM="HiSeq4000"
+##########create index from group duplicated bam file##########
+java -jar ../../../../../SetupFiles/picard.jar BuildBamIndex I=group_mdup_alignment.bam
+##########create index from reference genome##########
+samtools faidx chr19.fa 
+##########gatk4 variant calling##########
+java -jar ../../../../../SetupFiles/gatk-4.2.0.0/gatk-package-4.2.0.0-local.jar HaplotypeCaller -R chr19.fa -I group_mdup_alignment.bam -O gatk4.vcf
+##########samtools variant calling##########
+samtools mpileup -u -f chr19.fa group_mdup_alignment.bam > samtools.bcf
+bcftools view samtools.bcf > samtools.vcf
+##########freebayes variant calling##########
+freebayes -f chr19.fa group_mdup_alignment.bam > freebayes.vcf
+

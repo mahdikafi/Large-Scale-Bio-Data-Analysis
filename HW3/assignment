@@ -1,0 +1,80 @@
+PART0: basics 
+
+ 
+
+We work on three genomes all having same size as ECOLI
+
+ 
+
+GENOME 1: a random genome of  ecoli genome size
+
+GENOME 2: ecoli
+
+GENOME 3: a part of human chromosome 20 starting from 20Mbp and having the same size as ecoli genome.
+
+ 
+
+1-  write a program and prepare all these genomes
+
+ 
+
+2- Write a program that generates reads from a genome with a given error rate. (Consider only substitution errors)
+
+ 
+
+3 - Write a program that assembles genomes from a given set of reads ( you may only call available packages such as velvet).
+
+ 
+
+ 
+
+PART1: DENOVO Assembly 
+
+ 
+
+Compare the performance of the denovo assembly based on the following variables.
+
+ 
+
+1- Genome size
+
+2- Number of reads
+
+3- Read length
+
+4- Error rate in reads
+
+ 
+
+GOAL1: Plot N50 vs coverage depth.
+
+GOAL2: Plot N50 vs error rate. 
+
+GOAL3: compare the three genomes.
+
+ 
+
+ 
+
+ 
+
+PART2: RESEQUENCING
+
+ 
+
+Consider the three genomes as reference genomes and create three new genomes with some mutations inserted. Mutations include substitutions and short indels. Write a program that calls variations from reads and a reference genome. ( you may use short read mapping such as bowtie)
+
+ 
+
+ 
+
+GOAL1: Compare the performance of variant calling for different read length ( starting from 20 bp up to 200 bp)
+
+GOAL2: Compare the performance of variant calling for different mutation rates
+
+GOAL3: Compare the performance of variant calling if only indels do exist.
+
+GOAL4: How much coverage is needed to call all the variant perfectly?
+
+
+

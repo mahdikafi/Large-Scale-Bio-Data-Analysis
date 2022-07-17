@@ -1,0 +1,2701 @@
+Mon Jul 19 17:49:41 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Mon Jul 19 17:49:48 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.551220
+Final graph has 1895 nodes and n50 of 144, max 452, total 275381, using 0/10000 reads
+Mon Jul 19 20:51:13 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Mon Jul 19 20:51:15 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.547619
+Final graph has 1858 nodes and n50 of 144, max 456, total 276647, using 0/10000 reads
+Tue Jul 20 01:38:45 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:38:46 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.792308
+Final graph has 8332 nodes and n50 of 229, max 1111, total 1548421, using 0/30931 reads
+Tue Jul 20 01:38:49 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:38:51 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 2.285429
+Final graph has 6183 nodes and n50 of 458, max 2077, total 2208792, using 0/61862 reads
+Tue Jul 20 01:38:58 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:39:01 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 2.900262
+Final graph has 5912 nodes and n50 of 886, max 4097, total 3689307, using 0/92793 reads
+Tue Jul 20 01:39:11 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:39:16 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 3.632118
+Final graph has 3977 nodes and n50 of 1628, max 7922, total 4284739, using 0/123724 reads
+Tue Jul 20 01:39:28 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:39:34 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 4.412285
+Final graph has 2433 nodes and n50 of 2881, max 17533, total 4385230, using 0/154655 reads
+Tue Jul 20 01:39:49 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:39:56 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 5.240391
+Final graph has 1237 nodes and n50 of 6225, max 29021, total 4561523, using 0/185587 reads
+Tue Jul 20 01:40:13 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:40:22 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 6.079631
+Final graph has 752 nodes and n50 of 11424, max 52282, total 4589419, using 0/216518 reads
+Tue Jul 20 01:40:41 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:40:51 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 6.912591
+Final graph has 359 nodes and n50 of 25915, max 93058, total 4625198, using 0/247449 reads
+Tue Jul 20 01:41:13 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:41:24 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 7.783378
+Final graph has 150 nodes and n50 of 58673, max 159167, total 4634661, using 0/278380 reads
+Tue Jul 20 01:41:47 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:41:59 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 8.642160
+Final graph has 95 nodes and n50 of 124221, max 266073, total 4637032, using 0/309311 reads
+Tue Jul 20 01:42:25 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:42:38 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 9.511976
+Final graph has 67 nodes and n50 of 163336, max 325262, total 4638420, using 0/340242 reads
+Tue Jul 20 01:43:08 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:43:22 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 10.381803
+Final graph has 37 nodes and n50 of 305987, max 675251, total 4639111, using 0/371174 reads
+Tue Jul 20 01:43:58 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:44:14 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 11.212666
+Final graph has 32 nodes and n50 of 295466, max 746211, total 4639368, using 0/402105 reads
+Tue Jul 20 01:44:51 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:45:07 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 12.100821
+Final graph has 26 nodes and n50 of 377477, max 735080, total 4639605, using 0/433036 reads
+Tue Jul 20 01:45:48 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:46:06 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 12.982650
+Final graph has 25 nodes and n50 of 572509, max 790447, total 4639576, using 0/463967 reads
+Tue Jul 20 01:46:50 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:47:09 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 13.803233
+Final graph has 19 nodes and n50 of 572509, max 862883, total 4639637, using 0/494898 reads
+Tue Jul 20 01:47:56 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:48:17 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 14.717409
+Final graph has 24 nodes and n50 of 355887, max 820219, total 4639591, using 0/525829 reads
+Tue Jul 20 01:49:05 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:49:26 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 15.533730
+Final graph has 23 nodes and n50 of 572509, max 793330, total 4639581, using 0/556761 reads
+Tue Jul 20 01:50:14 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:50:37 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 16.383008
+Final graph has 22 nodes and n50 of 377477, max 735083, total 4639638, using 0/587692 reads
+Tue Jul 20 01:51:30 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 01:51:54 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 17.271355
+Final graph has 22 nodes and n50 of 539657, max 862758, total 4639516, using 0/618623 reads
+Tue Jul 20 02:34:49 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:34:50 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.730769
+Final graph has 6172 nodes and n50 of 214, max 905, total 1173373, using 0/25000 reads
+Tue Jul 20 02:34:52 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:34:53 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.668874
+Final graph has 8230 nodes and n50 of 186, max 953, total 1156273, using 0/25000 reads
+Tue Jul 20 02:34:55 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:34:56 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.574899
+Final graph has 10978 nodes and n50 of 142, max 857, total 1139551, using 0/25000 reads
+Tue Jul 20 02:34:58 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:34:59 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.523077
+Final graph has 11392 nodes and n50 of 133, max 611, total 1124970, using 0/25000 reads
+Tue Jul 20 02:35:02 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:02 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.478528
+Final graph has 11145 nodes and n50 of 134, max 669, total 1130771, using 0/25000 reads
+Tue Jul 20 02:35:05 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:06 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.391304
+Final graph has 12188 nodes and n50 of 130, max 868, total 1113106, using 0/25000 reads
+Tue Jul 20 02:35:08 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:09 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.316832
+Final graph has 12332 nodes and n50 of 127, max 623, total 1100446, using 0/25000 reads
+Tue Jul 20 02:35:11 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:12 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.233333
+Final graph has 13076 nodes and n50 of 118, max 584, total 1084993, using 0/25000 reads
+Tue Jul 20 02:35:14 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:15 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.208333
+Final graph has 12714 nodes and n50 of 116, max 768, total 1059319, using 0/25000 reads
+Tue Jul 20 02:35:18 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:19 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.126582
+Final graph has 13409 nodes and n50 of 104, max 537, total 1047188, using 0/25000 reads
+Tue Jul 20 02:35:21 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:22 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.103774
+Final graph has 13023 nodes and n50 of 102, max 593, total 1025129, using 0/25000 reads
+Tue Jul 20 02:35:24 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:25 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.073684
+Final graph has 12510 nodes and n50 of 101, max 464, total 995882, using 0/25000 reads
+Tue Jul 20 02:35:27 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:28 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.064039
+Final graph has 11691 nodes and n50 of 104, max 541, total 964335, using 0/25000 reads
+Tue Jul 20 02:35:30 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:31 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.049751
+Final graph has 11389 nodes and n50 of 102, max 479, total 931982, using 0/25000 reads
+Tue Jul 20 02:35:33 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:34 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.043011
+Final graph has 10456 nodes and n50 of 102, max 424, total 876044, using 0/25000 reads
+Tue Jul 20 02:35:36 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:36 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.036585
+Final graph has 9685 nodes and n50 of 104, max 435, total 830233, using 0/25000 reads
+Tue Jul 20 02:35:38 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:39 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.030928
+Final graph has 8989 nodes and n50 of 104, max 485, total 778353, using 0/25000 reads
+Tue Jul 20 02:35:41 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:42 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.028571
+Final graph has 8297 nodes and n50 of 108, max 403, total 741514, using 0/25000 reads
+Tue Jul 20 02:35:44 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:45 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.024793
+Final graph has 7581 nodes and n50 of 108, max 436, total 683921, using 0/25000 reads
+Tue Jul 20 02:35:46 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:47 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.023669
+Final graph has 6985 nodes and n50 of 107, max 469, total 632963, using 0/25000 reads
+Tue Jul 20 02:35:49 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:50 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.021459
+Final graph has 6351 nodes and n50 of 109, max 435, total 584470, using 0/25000 reads
+Tue Jul 20 02:35:51 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:52 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.017699
+Final graph has 5787 nodes and n50 of 109, max 391, total 543488, using 0/25000 reads
+Tue Jul 20 02:35:53 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:54 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.017751
+Final graph has 5175 nodes and n50 of 111, max 345, total 494186, using 0/25000 reads
+Tue Jul 20 02:35:56 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:57 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.017391
+Final graph has 4570 nodes and n50 of 110, max 365, total 437919, using 0/25000 reads
+Tue Jul 20 02:35:58 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:35:59 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014706
+Final graph has 4067 nodes and n50 of 111, max 410, total 399079, using 0/25000 reads
+Tue Jul 20 02:36:00 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:01 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.016461
+Final graph has 3575 nodes and n50 of 113, max 386, total 353071, using 0/25000 reads
+Tue Jul 20 02:36:02 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:03 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.015385
+Final graph has 3190 nodes and n50 of 114, max 340, total 321925, using 0/25000 reads
+Tue Jul 20 02:36:04 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:05 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.016129
+Final graph has 2796 nodes and n50 of 115, max 385, total 284569, using 0/25000 reads
+Tue Jul 20 02:36:06 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:07 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014085
+Final graph has 2538 nodes and n50 of 115, max 309, total 256911, using 0/25000 reads
+Tue Jul 20 02:36:09 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:09 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014493
+Final graph has 2221 nodes and n50 of 114, max 356, total 227100, using 0/25000 reads
+Tue Jul 20 02:36:11 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:11 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.013699
+Final graph has 1852 nodes and n50 of 115, max 357, total 188491, using 0/25000 reads
+Tue Jul 20 02:36:13 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:13 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011696
+Final graph has 1714 nodes and n50 of 115, max 256, total 177428, using 0/25000 reads
+Tue Jul 20 02:36:15 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:15 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.013393
+Final graph has 1539 nodes and n50 of 114, max 269, total 157434, using 0/25000 reads
+Tue Jul 20 02:36:17 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:17 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010989
+Final graph has 1321 nodes and n50 of 114, max 335, total 136838, using 0/25000 reads
+Tue Jul 20 02:36:19 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:20 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011765
+Final graph has 1177 nodes and n50 of 115, max 259, total 121445, using 0/25000 reads
+Tue Jul 20 02:36:21 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:21 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.012500
+Final graph has 933 nodes and n50 of 121, max 298, total 100987, using 0/25000 reads
+Tue Jul 20 02:36:23 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:23 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010204
+Final graph has 836 nodes and n50 of 116, max 284, total 88059, using 0/25000 reads
+Tue Jul 20 02:36:25 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:25 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011834
+Final graph has 708 nodes and n50 of 115, max 255, total 73576, using 0/25000 reads
+Tue Jul 20 02:36:26 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:27 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.013514
+Final graph has 639 nodes and n50 of 119, max 300, total 67838, using 0/25000 reads
+Tue Jul 20 02:36:29 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:29 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010256
+Final graph has 579 nodes and n50 of 115, max 249, total 60781, using 0/25000 reads
+Tue Jul 20 02:36:31 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:31 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010309
+Final graph has 445 nodes and n50 of 122, max 255, total 48067, using 0/25000 reads
+Tue Jul 20 02:36:32 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:33 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.008696
+Final graph has 396 nodes and n50 of 117, max 258, total 41809, using 0/25000 reads
+Tue Jul 20 02:36:34 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:35 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011111
+Final graph has 356 nodes and n50 of 121, max 248, total 39426, using 0/25000 reads
+Tue Jul 20 02:36:37 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:37 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.008772
+Final graph has 346 nodes and n50 of 118, max 259, total 37251, using 0/25000 reads
+Tue Jul 20 02:36:38 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:39 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.012121
+Final graph has 300 nodes and n50 of 117, max 234, total 31228, using 0/25000 reads
+Tue Jul 20 02:36:40 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:41 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.009434
+Final graph has 217 nodes and n50 of 109, max 221, total 21605, using 0/25000 reads
+Tue Jul 20 02:36:42 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:43 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.007874
+Final graph has 184 nodes and n50 of 120, max 247, total 20122, using 0/25000 reads
+Tue Jul 20 02:36:44 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:45 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011111
+Final graph has 165 nodes and n50 of 119, max 252, total 17708, using 0/25000 reads
+Tue Jul 20 02:36:46 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:47 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010101
+Final graph has 158 nodes and n50 of 122, max 254, total 17789, using 0/25000 reads
+Tue Jul 20 02:36:48 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:49 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010811
+Final graph has 130 nodes and n50 of 118, max 247, total 13857, using 0/25000 reads
+Tue Jul 20 02:36:50 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:51 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.012346
+Final graph has 90 nodes and n50 of 113, max 233, total 9353, using 0/25000 reads
+Tue Jul 20 02:36:53 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:53 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.007576
+Final graph has 97 nodes and n50 of 109, max 235, total 10343, using 0/25000 reads
+Tue Jul 20 02:36:54 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:55 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010101
+Final graph has 65 nodes and n50 of 112, max 233, total 6954, using 0/25000 reads
+Tue Jul 20 02:36:56 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:36:57 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.007812
+Final graph has 54 nodes and n50 of 109, max 180, total 5361, using 0/25000 reads
+Tue Jul 20 02:36:59 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:00 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006803
+Final graph has 48 nodes and n50 of 137, max 250, total 5678, using 0/25000 reads
+Tue Jul 20 02:37:01 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:01 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006173
+Final graph has 65 nodes and n50 of 115, max 248, total 7051, using 0/25000 reads
+Tue Jul 20 02:37:03 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:03 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.012195
+Final graph has 29 nodes and n50 of 129, max 218, total 3397, using 0/25000 reads
+Tue Jul 20 02:37:05 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:06 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006173
+Final graph has 52 nodes and n50 of 109, max 237, total 5295, using 0/25000 reads
+Tue Jul 20 02:37:07 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:08 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 35 nodes and n50 of 99, max 213, total 3098, using 0/25000 reads
+Tue Jul 20 02:37:09 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:10 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.004950
+Final graph has 23 nodes and n50 of 151, max 243, total 2796, using 0/25000 reads
+Tue Jul 20 02:37:11 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:12 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.018433
+Final graph has 22 nodes and n50 of 120, max 246, total 2459, using 0/25000 reads
+Tue Jul 20 02:37:13 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:14 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006098
+Final graph has 17 nodes and n50 of 115, max 186, total 1832, using 0/25000 reads
+Tue Jul 20 02:37:15 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:16 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.016043
+Final graph has 20 nodes and n50 of 111, max 201, total 2104, using 0/25000 reads
+Tue Jul 20 02:37:17 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:18 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.009259
+Final graph has 16 nodes and n50 of 147, max 217, total 2045, using 0/25000 reads
+Tue Jul 20 02:37:20 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:21 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010101
+Final graph has 22 nodes and n50 of 99, max 153, total 2009, using 0/25000 reads
+Tue Jul 20 02:37:22 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:23 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.007937
+Final graph has 14 nodes and n50 of 126, max 204, total 1530, using 0/25000 reads
+Tue Jul 20 02:37:24 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:25 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010204
+Final graph has 14 nodes and n50 of 137, max 233, total 1828, using 0/25000 reads
+Tue Jul 20 02:37:28 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:29 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.005128
+Final graph has 11 nodes and n50 of 130, max 195, total 1204, using 0/25000 reads
+Tue Jul 20 02:37:30 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:31 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014706
+Final graph has 6 nodes and n50 of 112, max 150, total 654, using 0/25000 reads
+Tue Jul 20 02:37:32 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:33 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010000
+Final graph has 9 nodes and n50 of 103, max 217, total 897, using 0/25000 reads
+Tue Jul 20 02:37:34 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:35 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 6 nodes and n50 of 125, max 182, total 587, using 0/25000 reads
+Tue Jul 20 02:37:36 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:37 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006098
+Final graph has 8 nodes and n50 of 115, max 164, total 983, using 0/25000 reads
+Tue Jul 20 02:37:38 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:39 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.005525
+Final graph has 12 nodes and n50 of 135, max 209, total 1379, using 0/25000 reads
+Tue Jul 20 02:37:40 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:41 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 6 nodes and n50 of 112, max 163, total 608, using 0/25000 reads
+Tue Jul 20 02:37:42 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:43 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.019355
+Final graph has 5 nodes and n50 of 125, max 155, total 452, using 0/25000 reads
+Tue Jul 20 02:37:45 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:45 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011236
+Final graph has 3 nodes and n50 of 152, max 178, total 440, using 0/25000 reads
+Tue Jul 20 02:37:47 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:48 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 3 nodes and n50 of 111, max 115, total 334, using 0/25000 reads
+Tue Jul 20 02:37:49 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:50 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.009346
+Final graph has 2 nodes and n50 of 107, max 107, total 199, using 0/25000 reads
+Tue Jul 20 02:37:51 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:52 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.009434
+Final graph has 2 nodes and n50 of 106, max 106, total 168, using 0/25000 reads
+Tue Jul 20 02:37:53 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:54 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014493
+Final graph has 5 nodes and n50 of 156, max 207, total 612, using 0/25000 reads
+Tue Jul 20 02:37:55 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:56 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.021739
+Final graph has 4 nodes and n50 of 72, max 80, total 246, using 0/25000 reads
+Tue Jul 20 02:37:58 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:37:58 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.005650
+Final graph has 3 nodes and n50 of 177, max 177, total 329, using 0/25000 reads
+Tue Jul 20 02:38:00 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:01 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.044444
+Final graph has 1 nodes and n50 of 45, max 45, total 45, using 0/25000 reads
+Tue Jul 20 02:38:02 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:03 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 3 nodes and n50 of 73, max 83, total 191, using 0/25000 reads
+Tue Jul 20 02:38:04 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:05 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.014706
+Final graph has 4 nodes and n50 of 70, max 72, total 275, using 0/25000 reads
+Tue Jul 20 02:38:06 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:07 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.005848
+Final graph has 5 nodes and n50 of 156, max 171, total 577, using 0/25000 reads
+Tue Jul 20 02:38:09 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:09 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/25000 reads
+Tue Jul 20 02:38:10 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:11 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/25000 reads
+Tue Jul 20 02:38:12 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:13 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/25000 reads
+Tue Jul 20 02:38:14 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:15 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.000000
+Final graph has 7 nodes and n50 of 99, max 126, total 524, using 0/25000 reads
+Tue Jul 20 02:38:17 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:17 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/25000 reads
+Tue Jul 20 02:38:18 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:19 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.006944
+Final graph has 2 nodes and n50 of 144, max 144, total 273, using 0/25000 reads
+Tue Jul 20 02:38:21 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:22 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.020408
+Final graph has 1 nodes and n50 of 49, max 49, total 49, using 0/25000 reads
+Tue Jul 20 02:38:23 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:24 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Final graph has 0 nodes and n50 of 0, max 0, total 0, using 0/25000 reads
+Tue Jul 20 02:38:25 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:26 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.008850
+Final graph has 3 nodes and n50 of 116, max 175, total 404, using 0/25000 reads
+Tue Jul 20 02:38:27 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:28 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.017857
+Final graph has 1 nodes and n50 of 56, max 56, total 56, using 0/25000 reads
+Tue Jul 20 02:38:29 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:30 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.011628
+Final graph has 4 nodes and n50 of 91, max 117, total 329, using 0/25000 reads
+Tue Jul 20 02:38:32 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:33 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.010753
+Final graph has 1 nodes and n50 of 93, max 93, total 93, using 0/25000 reads
+Tue Jul 20 02:38:34 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:35 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.008889
+Final graph has 3 nodes and n50 of 225, max 225, total 414, using 0/25000 reads
+Tue Jul 20 02:38:37 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 02:38:38 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.023810
+Final graph has 3 nodes and n50 of 84, max 87, total 242, using 0/25000 reads
+Tue Jul 20 10:48:56 2021
+ velveth random_out/ 21 -fastq -short data/random_reads.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Tue Jul 20 10:48:59 2021
+ velvetg random_out/ -cov_cutoff auto
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 1.547619
+Final graph has 1757 nodes and n50 of 153, max 491, total 269970, using 0/10000 reads
